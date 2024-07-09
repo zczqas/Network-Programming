@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unit_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Proxy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/InetAddressChan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Socket4ClientChan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Socket4ServerChan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MultiSocketChan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ServerWithLogChan" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SingleFileHTTP" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

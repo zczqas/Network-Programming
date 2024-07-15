@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/MultiSocketChan" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ServerWithLogChan" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SingleFileHTTP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicRedirectChan" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

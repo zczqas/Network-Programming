@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SecureSocket" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JavaNIO" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CharGenServer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RMI" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
